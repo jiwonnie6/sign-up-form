@@ -79,11 +79,10 @@ body {
 }
 /* right side //  */
 
-.right-column {
+  #signup-form {
     flex-direction: column;
     display: flex;
     justify-content: center;
-    align-items: left;
   }
 
 .right-column h2 {
